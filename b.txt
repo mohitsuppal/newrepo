@@ -1,4 +1,6 @@
 hi this is b.txt
-revert
+version 2
+
+deleting master branch
 
 

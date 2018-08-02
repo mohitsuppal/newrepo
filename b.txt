@@ -1,6 +1,6 @@
 hi this is b.txt
 version 2
 
-changes made for demo of git branching
+
 
 
